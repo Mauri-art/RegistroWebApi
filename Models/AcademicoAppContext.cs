@@ -10,6 +10,11 @@ namespace AcademicoApp.Models
 
         }
 
+        //Tabla Estudiantes
         public DbSet<Estudiante> Estudiante {get;set;}
+
+        //Tabla Materia
+        public DbSet<Materia> Materia {get;set;}
+        
     }
 }
