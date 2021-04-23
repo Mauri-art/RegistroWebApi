@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\POO\\AcademicoApp\\AcademicoApp.csproj": {}
+    "C:\\poo\\AcademicoAPP\\AcademicoApp.csproj": {}
   },
   "projects": {
-    "C:\\POO\\AcademicoApp\\AcademicoApp.csproj": {
+    "C:\\poo\\AcademicoAPP\\AcademicoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\POO\\AcademicoApp\\AcademicoApp.csproj",
+        "projectUniqueName": "C:\\poo\\AcademicoAPP\\AcademicoApp.csproj",
         "projectName": "AcademicoApp",
-        "projectPath": "C:\\POO\\AcademicoApp\\AcademicoApp.csproj",
+        "projectPath": "C:\\poo\\AcademicoAPP\\AcademicoApp.csproj",
         "packagesPath": "C:\\Users\\moris\\.nuget\\packages\\",
-        "outputPath": "C:\\POO\\AcademicoApp\\obj\\",
+        "outputPath": "C:\\poo\\AcademicoAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moris\\AppData\\Roaming\\NuGet\\NuGet.Config",
