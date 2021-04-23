@@ -7,6 +7,7 @@ using AcademicoApp.Models;
 
 namespace AcademicoApp.Controllers
 {
+    [ApiController]
     public class MateriaController:ControllerBase
     {
             private readonly AcademicoAppContext _contexto;
