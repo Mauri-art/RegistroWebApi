@@ -30,8 +30,16 @@ namespace AcademicoApp.Controllers
         {                   
             Estudiante Estudiante = (from est in _contexto.Estudiante
                                 where est.codigoEstudiante == _codigoEstudiante
-                                select est).First();
+                                select est).First(); 
             return Estudiante;            
+        }
+
+        [HttpPost]
+        [Route("api/guardarEstudiante/")]
+        public Estudiante AgregarEstudiante(Estudiante _nuevoEstudiante){
+            _contexto.Estudiante.Add(_nuevoEstudiante);
+            _contexto.SaveChanges();
+            return _nuevoEstudiante;
         }
 
     }
