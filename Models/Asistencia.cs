@@ -6,6 +6,7 @@ namespace AcademicoApp.Models
 {
     public class Asistencia
     {
+        [Key]
         public int idAsistencia { get; set; }
         public int idMatricula { get; set; }
         public DateTime fecha { get; set; }
