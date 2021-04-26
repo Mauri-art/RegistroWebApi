@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6EAUWcE9DLjd9wc1bvnS2ce+6p/6eNdY+yuoyxrBF7Q8uW0Sz/z2iQZJ/LW3vBuGdfypm++uynlGJLWT/YAYsw==",
+  "dgSpecHash": "70463Wg3qAYiFYYB80lKX0we8ZkqZ3wd7gxWyXBaIvF7INrkjV3ARpoVWpG7fMKKy8Mdn9ZoB53FbrLncQPaOw==",
   "success": true,
-  "projectFilePath": "C:\\poo\\AcademicoAPP\\AcademicoApp.csproj",
+  "projectFilePath": "C:\\poo\\AcademicoApp\\AcademicoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moris\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\moris\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
